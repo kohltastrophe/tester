@@ -1,0 +1,15 @@
+{
+	"name": "Sert Testing",
+	"tree": {
+		"$className": "DataModel",
+		"ServerScriptService": {
+			"$className": "ServerScriptService",
+			"Test": {
+				"$path": "tests",
+				"Sert": {
+					"$path": "src"
+				}
+			}
+		}
+	}
+}
